@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.vscode
+.python-version
+__pycache__
+datasets/*30frames.pickle
