@@ -4,7 +4,7 @@ This repository is meant to publish the code used to generate the results in the
 
 ```Phillip Swazinna, Steffen Udluft, Thomas Runkler. "User-Interactive Offline Reinforcement Learning." International Conference on Learning Representations (ICLR), 2023.```
 
---> You can check out the [paper website](https://pswazinna.github.io/LION/) or read the full paper [here!](https://openreview.net/forum?id=a4COps0uokg)
+--> You can check out the [paper website](https://pswazinna.github.io/LION/) or read the full paper on [OpenReview](https://openreview.net/forum?id=a4COps0uokg) / [ArXiv](https://arxiv.org/abs/2205.10629)
 
 ### LION: Learning in Interactive Offline eNvironments
 
